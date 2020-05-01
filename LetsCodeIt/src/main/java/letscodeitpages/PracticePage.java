@@ -1,4 +1,4 @@
-package latscodeitPages;
+package letscodeitpages;
 
 import base.CommonAPI;
 import org.openqa.selenium.Alert;

@@ -1,7 +1,7 @@
-package letscodeitPages;
+package testletscodeitpages;
 
 import base.CommonAPI;
-import latscodeitPages.PracticePage;
+import letscodeitpages.PracticePage;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
